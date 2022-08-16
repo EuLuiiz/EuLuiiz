@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">Olá, sou o Luiz 👋 amante de todo tipo de tecnologia 👨‍💻 futuro desenvolvedor web 🚀</div>  
+### <div align="center">Olá, sou o Luiz 👋 amante de todo tipo de tecnologia 👨‍💻 desenvolvedor web 🚀</div>  
 
 <br/>
   
@@ -12,7 +12,7 @@
 - 🧠 Meu trabalho recente foi [DinDin](https://github.com/EuLuiiz/dindin-xp44)  
   
 
-- 💭 Estudando atualmente JavaScript  
+- 💭 Estudando atualmente JavaScript DOM/API  
   
 
 - 👾 Fato divertido: imagine um fato divertido :o  
