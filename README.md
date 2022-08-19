@@ -49,11 +49,11 @@
 ## Github Stats  
 
 <div align="center">
-<a>
+<a href"/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euluiiz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="euluiiz" />
 </a>
 
-<a>
+<a href="/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=euluiiz&show_icons=true&theme=tokyonight&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 </div>
