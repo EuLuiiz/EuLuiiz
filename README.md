@@ -9,7 +9,7 @@
 <br/>
   
 
-- 🧠 Meu trabalho recente foi [DinDin](https://github.com/EuLuiiz/dindin-xp44)  
+- 🧠 Meu trabalho recente foi [SoundGardern](https://github.com/EuLuiiz/soundgardern-hands-on2)  
   
 
 - 💭 Estudando atualmente JavaScript DOM/API  
