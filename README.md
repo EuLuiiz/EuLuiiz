@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">Olá, sou o Luiz 👋 amante de todo tipo de tecnologia 👨‍💻 desenvolvedor web 🚀</div>  
+### <div align="center">Olá, sou o Luiz 👋 Desenvolvedor BackEnd</div>  
 
 <br/>
   
@@ -12,10 +12,10 @@
 - 🧠 Meu trabalho recente foi [SoundGardern](https://github.com/EuLuiiz/soundgardern-hands-on2)  
   
 
-- 💭 Estudando atualmente JavaScript DOM/API  
+- 💭 Estudando atualmente TypeScript | Arquitetura de projetos
   
 
-- 👾 Fato divertido: imagine um fato divertido :o  
+- 👾 Preciso de um café e uma boa gameplay  
   
 
 <br/> 
