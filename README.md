@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">Olá, sou o Luiz 👋 Desenvolvedor BackEnd</div>  
+### <div align="center">Olá, sou o Luiz 👋 Dev BackEnd | NodeJS | TypeScript</div>  
 
 <br/>
   
