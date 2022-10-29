@@ -1,21 +1,22 @@
 <div align="center">
-<img src="https://sdk.bitmoji.com/render/panel/5e845383-93bc-40c1-bdde-3574c1b7c810-4fbad1a6-cf53-4e76-85d0-554ad654afe1-v1.png?transparent=1&palette=1" align="center" width="250px" />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=euluiiz&label=Visitantes&color=8f0099&style=flat" alt="euluiiz" /> </p>
+<img src="https://sdk.bitmoji.com/render/panel/7fc6ba13-3c81-4611-8f1d-a0cb873c4568-4fbad1a6-cf53-4e76-85d0-554ad654afe1-v1.png?transparent=1&palette=1" align="center" width="270px" />
 </div>  
   
 
-### <div align="center">Olá, sou o Luiz 👋 Dev BackEnd | NodeJS | TypeScript</div>  
+### <div align="center">Olá, sou o Luiz 👋 Dev BackEnd | NodeJS | TypeScript
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=euluiiz&label=Visitantes&color=8f0099&style=flat" alt="euluiiz" /> </p>
+</div>  
 
 <br/>
   
 
-- 🧠 Meu trabalho recente foi [SoundGardern](https://github.com/EuLuiiz/soundgardern-hands-on2)  
+- 🧠 Meu trabalho recente foi [Parrot](https://github.com/EuLuiiz/parrot-handson)  
   
 
-- 💭 Estudando atualmente TypeScript | Arquitetura de projetos
+- 💭 Estudando atualmente NodeJs Avançado | MongoDB
   
 
-- 👾 Preciso de um café e uma boa gameplay  
+- 👾 Amante de gatos, precisando de um café e uma boa gameplay
   
 
 <br/> 
@@ -23,7 +24,29 @@
 
 ## My Skill Set  
 <div align="center">  
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+</p>
 </div>  
 
 <br/>  
