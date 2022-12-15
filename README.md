@@ -10,10 +10,10 @@
 <br/>
   
 
-- 🧠 Meu trabalho recente foi [Parrot](https://github.com/EuLuiiz/parrot-handson)  
+- 🧠 Meu trabalho recente foi [MyJam](https://github.com/EuLuiiz/myjam-back)  
   
 
-- 💭 Estudando atualmente NodeJs Avançado | MongoDB
+- 💭 Estudando atualmente NestJS | Prisma | Web Sockets [API](https://github.com/EuLuiiz/api-nest-prisma)
   
 
 - 👾 Amante de gatos, precisando de um café e uma boa gameplay
